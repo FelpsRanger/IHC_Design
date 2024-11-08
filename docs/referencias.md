@@ -9,5 +9,8 @@ Ideia de funcionalidade inovadora: ajudar na prevencao do bornout.
 uma persona paa acessibilidade. 
 
 
-acessibilidae: comando de voz.
+acessibilidade: comando de voz.
 
+fibromialgia,cego, 
+
+funcionalidade: VR
