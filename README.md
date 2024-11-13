@@ -14,7 +14,7 @@
  Docente:
 * Andrey Rodrigues
 
-Nome do sistema:
+Nome do sistema: SLOW DOWN
 
 ## Objetivo do trabalho:
 
@@ -23,3 +23,7 @@ Nome do sistema:
 links para cada diretório
 
 - acesse o link
+  
+  ![1. PROPOSTAS](https://github.com/FelpsRanger/IHC_Design/tree/main/docs/1.Propostas)
+  
+  ![2. DESIGN THINKING](https://github.com/FelpsRanger/IHC_Design/tree/main/docs/2.%20Design_Thinking)
