@@ -2,6 +2,9 @@
  Curso:
 * Engenharia de Software
 
+ Matéria: 
+ * Interação humano computador
+   
  Integrantes:
 * A1: Andreza Rodrigues de Oliveira #22450924 
 * A2: Felipe Rangel Silvestre #22400234
